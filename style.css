@@ -1,0 +1,46 @@
+.img {
+    width: 300px;
+    width: 100%;
+}
+
+.tudo {
+    border: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);;
+    background-color: #fff;
+    width: 280px;
+    height: 335px;
+
+}
+
+.titulo {
+    border-radius: 5px;
+    background-color: #483D8B;
+    width: 60px;
+    height: 15px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 8px;
+    margin: 20px;
+}
+
+.principal {
+    font-family: 'Oswald', sans-serif;
+    text-align: justify;
+    font-size: 13px;
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none; 
+    letter-spacing: 2px;
+    color: green;
+    margin: 20px;
+    font-size: 12px;
+    
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+  }
